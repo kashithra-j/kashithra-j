@@ -6,21 +6,28 @@
 
 </div>
 
-## 👋 About Me
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-🎓 &nbsp;**Studying** — B.Tech in Artificial Intelligence & Data Science, SRM Valliammai Engineering College *(Expected 2028)*
+```python
+class Kashithra:
+    def __init__(self):
+        self.name = "Kashithra J"
+        self.location = "Tamil Nadu, India"
+        self.degree = "B.Tech in AI & Data Science, SRM Valliammai Engineering College (Expected 2028)"
+        self.stack = ["Python", "Java", "C", "SQL",
+                      "Scikit-learn", "NumPy", "Pandas",
+                      "Matplotlib", "Streamlit"]
+        self.currently_exploring = ["Deep Learning", "Advanced NLP"]
+        self.fun_fact = "I turn messy datasets into models that actually make predictions."
 
-📍 &nbsp;**Based in** — Tamil Nadu, India
+    def motto(self):
+        return "Preprocess. Train. Evaluate. Deploy. Repeat."
 
-💻 &nbsp;**Core Languages** — Python · Java · C · SQL
+me = Kashithra()
+print(me.motto())
+```
 
-🧰 &nbsp;**ML Toolkit** — Scikit-learn · NumPy · Pandas · Matplotlib · Streamlit
-
-🌱 &nbsp;**Currently Exploring** — Deep Learning, Advanced NLP
-
-💡 &nbsp;**How I Work** — *Preprocess → Train → Evaluate → Deploy → Repeat*
-
-✨ &nbsp;**Fun Fact** — I turn messy datasets into models that actually make predictions.
+<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
